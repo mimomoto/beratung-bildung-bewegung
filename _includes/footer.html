@@ -1,0 +1,35 @@
+<footer class='{% if page.separate_footer != false %}bg-gray{% endif %} main-footer'>
+  <div class='container'>
+
+    {% if page.footer_cta %}
+      <div class='paragraph'>
+        <p>
+          <i>
+            Bitte kontaktieren Sie mich. Gerne stehe ich Ihnen für Ihre Anfrage zur Verfügung.
+            In einem kostenlosen Vorgespräch können wir Ihr Anliegen und meine Angebote abgleichen.
+          </i>
+        </p>
+        <p>
+          <i>Ich freue mich über Ihren Kontakt!</i>
+        </p>
+      </div>
+      <img class='signature' src='/img/bettina-lukesch-facklam-signatur.png' alt='Signatur von Bettina Lukesch-Facklam' title='Bettina Lukesch-Facklam' />
+      <a class='email' href='mailto:office@beratung-bildung-bewegung.de' title='Schicken Sie eine E-Mail direkt an Bettina Lukesch-Facklam'>office@beratung-bildung-bewegung.de</a>
+      <p class='phone'><b>(+49) 177 - 5517 518</b></p>
+    {% else %}
+      <br /><br />
+    {% endif %}
+
+    {% include offersmenu.html %}
+
+    <div class='muted' href='/impressum'>
+      <p class='muted'>
+        <a href='/' class='menu-link'>Startseite</a>
+        {% include menu.html %}
+        <a href='/impressum/' class='menu-link'>Impressum</a>
+        <a href='/datenschutz/' class='menu-link'>Datenschutz</a>
+      </p>
+      <small class="text">{{ site.description }}</p>
+    </a>
+  </div>
+</footer>

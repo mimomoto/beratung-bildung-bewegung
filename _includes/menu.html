@@ -1,0 +1,6 @@
+{% assign menu_item = page.menu_item %}
+{% for page in site.pages %}
+  {% if page.title and page.menu != false %}
+    <a href="{{ page.url }}" class='menu-link {%if menu_item == page.menu_item %}current{% endif %}'>{{ page.title }}</a>
+  {% endif %}
+{% endfor %}

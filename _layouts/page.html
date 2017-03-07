@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% if page.container == false %}
+  <section>
+    {{ content }}
+  </section>
+{% else %}
+  <section class='container'>
+      {{ content }}
+  </section>
+{% endif %}

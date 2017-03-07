@@ -1,0 +1,22 @@
+# Site Settings
+     # --------------------- 55 chars ------------------------
+title: Bettina Lukesch-Facklam - Supervision, Psychomotorik
+
+header: Beratung-Bildung-Bewegung
+subheader: Bremen
+name: Bettina Lukesch-Facklam
+email: office@beratung-bildung-bewegung.de
+
+  # -------------------- 145 chars ------------------------
+description: >
+    Bettina Lukesch-Facklam bietet Supervision, Coaching,
+    Seminare, Workshops und psychomotorische Entwicklungsbegleitung
+    in Deutschland und Österreich an.
+
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://www.beratung-bildung-bewegung.de" # the base hostname & protocol for your site
+menu_on_index: true # whether to show the main menu on the landing page
+
+# Build settings
+markdown: kramdown
+destination: docs
