@@ -9,8 +9,8 @@ email: office@beratung-bildung-bewegung.de
 
   # -------------------- 145 chars ------------------------
 description: >
-    Bettina Lukesch-Facklam bietet Supervision, Coaching,
-    Seminare, Workshops und psychomotorische Entwicklungsbegleitung
+    Bettina Lukesch-Facklam bietet Supervision, Coaching,<br />
+    Seminare, Workshops und psychomotorische Entwicklungsbegleitung<br />
     in Deutschland und Österreich an.
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
