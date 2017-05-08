@@ -8,13 +8,13 @@ separate_footer: false
 
 
 
-# Babypause von Oktober bis Dezember 2016
+# Babypause von Oktober bis Ende August 2017
 
-Sehr geehrte InteresentInnen und Interessenten!
+Sehr geehrte InteressentInnen und Interessenten!
 
-Nach der Geburt unseres Sohnes befinde ich mich bis Jahresende in einer Berufspause, nehme aber auch in dieser Zeit gerne Ihre Anfragen für die Zeit ab Januar 2017 entgegen! Bitte kontaktieren Sie mich für nähere Informationen!
+Nach der Geburt unseres Sohnes befinde ich mich bis Ende August 2017 in einer Babypause, nehme aber auch in dieser Zeit gerne Ihre Anfragen für die Zeit ab September 2017 entgegen. Bitte kontaktieren Sie mich für nähere Informationen!
 
-Der Veranstaltungskalender 2017 wird mit Jahresbeginn zur Verfügung stehen! Schauen Sie doch bei Gelegenheit wieder einmal vorbei!
+Der Veranstaltungskalender ab Herbst wird mit Ende August zur Verfügung stehen! Schauen Sie doch bei Gelegenheit wieder einmal vorbei!
 
 Mit freundlichen Grüßen<br />
 Bettina Lukesch-Facklam
