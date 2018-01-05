@@ -6,18 +6,15 @@ menu_item: aktuelles
 separate_footer: false
 ---
 
+# Aktuelles
 
+Sehr geehrte Interessentin! Sehr geehrter Interessent!
 
-# Babypause von Oktober bis Ende August 2017
-
-Sehr geehrte InteressentInnen und Interessenten!
-
-Nach der Geburt unseres Sohnes befinde ich mich bis Ende August 2017 in einer Babypause, nehme aber auch in dieser Zeit gerne Ihre Anfragen für die Zeit ab September 2017 entgegen. Bitte kontaktieren Sie mich für nähere Informationen!
-
-Der Veranstaltungskalender ab Herbst wird mit Ende August zur Verfügung stehen! Schauen Sie doch bei Gelegenheit wieder einmal vorbei!
+Nach meiner Elternzeit mit entsprechend geringeren Arbeitskapazitäten nehme ich nun wieder verstärkt meine berufliche Tätigkeit auf und stehe Ihnen gerne für Anfragen und Terminvereinbarungen zur Verfügung!
 
 Mit freundlichen Grüßen<br />
-Bettina Lukesch-Facklam
+
+<img style='width: 400px' src='/img/bettina-lukesch-facklam-signatur.png' alt='Bettina Lukesch-Facklam' title='Bettina Lukesch-Facklam' />
 
 
 <br /><br />
