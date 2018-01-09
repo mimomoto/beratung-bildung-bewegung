@@ -23,7 +23,7 @@ Je nach Fragestellung und inhaltlicher Zielsetzung meiner Kundinnen und Kunden k
 
 <p class='flow'>Gegebenenfalls nehme ich unter Wahrung der Verschwiegensheitsverpflichtung gegenüber meinen Kundinnen und Kunden eine Kontrollsupervision bei einer Kollegin oder einem Kollegen in Anspruch und reflektiere zur Qualitätssicherung mein eigenes supervisorisches Handeln.</p>
 
-<p class='flow'>Als anerkanntes, ordentliches Mitglied der Deutschen Gesellschaft für Supervision (DGSv) und des Österreichischen Verbandes für Supervision (ÖVS) bin ich den qualitätssichernden Maßnahmen und den berufsethischen Richtlinien beider Organisationen verpflichtet. Der von mir absolvierte Masterstudiengang für Supervision und Coaching wird von beiden Verbänden anerkannt.</p>
+<p class='flow'>Der von mir absolvierte Masterstudiengang für Supervision und Coaching ist von der Österreichischen Gesellschaft für Supvervision (ÖVS) und der Deutschen Gesellschaft für Supervision (DGSv) anerkannt. Als ordentliches Mitglied der DGSv bin ich deren qualitätssichernden Maßnahmen und berufsethischen Richtlinien verpflichtet.</p>
 
 <p class='flow'>Als Supervisorin und Coach nach dem Integrativen Ansatz verfüge ich über die Kompetenz zur Kombination unterschiedlicher Beratungs- und Trainingsmethoden. Ich folge einem selbstreflexiven, gleichermaßen prozess- und lösungsorientierten Beratungsverständnis und fokussiere das Zusammenwirken von beruflichen Rollen in Systemen.</p>
 
