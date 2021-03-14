@@ -16,7 +16,7 @@ Alle Preise auf Anfrage.
 ## Kontakt
 
 Bettina Lukesch-Facklam<br>
-Emmastrasse 189<br>
+Emmastrasse 205<br>
 D-28213 Bremen<br>
 E-Mail-Adresse: <a href='mailto:office@beratung-bildung-bewegung.de'>office@beratung-bildung-bewegung.de</a><br>
 Telefon: (+49) 177 - 5517 518
@@ -27,7 +27,7 @@ Angaben gem. § 5 TMG  <br>
 Betreiber und Kontakt:
 
 Bettina Lukesch-Facklam  <br>
-Emmastrasse 189<br>
+Emmastrasse 205<br>
 28213 Bremen  <br>
 
 Telefonnummer: (+49) 177 - 5517 518<br>
